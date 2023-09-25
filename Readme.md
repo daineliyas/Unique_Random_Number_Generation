@@ -16,3 +16,4 @@ You need to have a C# development environment installed on your machine. You can
 
 git clone https://github.com/daineliyas/Unique_Random_Number_Generation.git
 
+<img width="1115" alt="image" src="https://github.com/daineliyas/Unique_Random_Number_Generation/assets/71081057/f7683080-c8e9-4abf-8e06-95c398684f1d">
